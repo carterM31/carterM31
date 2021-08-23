@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carterM31
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... Web Engineering
-- 💞️ I’m looking to collaborate on ... various projects including but not limited to; HTTML, CCN, Java script.   
+- 💞️ I’m looking to collaborate on ... various projects including but not limited to; HTTML, CSS, Java script.   
 - 📫 How to reach me ... cartermarchbank33@gmail.com. 
 
 <!---
